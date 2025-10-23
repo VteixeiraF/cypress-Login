@@ -104,5 +104,3 @@ O badge no topo do README aponta para o status desse workflow.
 - Senha: `1234`
 
 ---
-
-Se quiser que eu adicione badges adicionais, workflows (por exemplo: múltiplos navegadores) ou publique relatórios/snapshots como artefatos no CI, me avise.
