@@ -1,6 +1,6 @@
 # Projeto de Teste com Cypress
 
-![CI](https://github.com/VteixeiraF/cypress-Login/actions/workflows/ci.yml/badge.svg)
+[CI](https://github.com/VteixeiraF/cypress-Login/actions/workflows/ci.yml/badge.svg)
 
 Este é um projeto básico para prática de testes E2E usando Cypress. Ele inclui um formulário de login simples com testes automatizados.
 
